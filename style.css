@@ -3,3 +3,20 @@
   font-family: "Times New Roman", Times, serif;
   font-size: 12pt;
 }
+
+.Ctypes {
+  float: left;
+  margin-left: 5%;
+  border: 2px solid grey;
+  border-radius: 10px;
+  background-color: white;
+  width: 5em;
+  height: 30px;
+}
+b {
+  margin-left: 25%;
+  color: black;
+}
+.divtype {
+  margin-top: 5%;
+}
