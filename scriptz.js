@@ -47,7 +47,8 @@ $('#removebutton').click(function(){
   document.getElementById('pub').value = "";
   document.getElementById('Date').value = "";
   document.getElementById('DA').value = "";
-
+  $('#print').css({'background-color':'white'});
+  $('#web').css({'background-color':'white'});
 // first try catch
 try {
   document.getElementById('p1').innerHTML = ""
